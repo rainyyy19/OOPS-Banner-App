@@ -1,13 +1,20 @@
 /**
- * OOPSBannerApp - UC1
+ * OOPSBannerApp UC2
  *
- * @author rainy
- * @version 1.0
+ * @author Rainyy
+ * @version 2.0
  */
 
 public class OOPS {
 
     public static void main(String[] args) {
-        System.out.println("OOPS");
+
+        System.out.println(" *******  " + " *******  " + " *******  " + " *******  ");
+        System.out.println("*       * " + "*       * " + "*       * " + "*       * ");
+        System.out.println("*       * " + "*       * " + "*       * " + "*         ");
+        System.out.println("*       * " + "*       * " + " *******  " + " *******  ");
+        System.out.println("*       * " + "*       * " + "*         " + "        * ");
+        System.out.println("*       * " + "*       * " + "*         " + "*       * ");
+        System.out.println(" *******  " + " *******  " + "*         " + " *******  ");
     }
 }
